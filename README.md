@@ -1,4 +1,4 @@
-# CHOME
+# TEMPLATE
 
-Welcome to chome. \
-Chome is an organization which programs applications that are focused to help people.
+This repository is here to be copied! \
+Here is nothing special but you can visit [chome](https://github.com/chomeProgramming) for projects!
