@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/chomeVisualizer/">
+        <Route exact path="/chome-stats/">
           <Home />
         </Route>
       </Switch>
